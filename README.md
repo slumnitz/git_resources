@@ -12,3 +12,5 @@ A collection of resources to learn git and improve collaboration with git
 5. Trouble Shooting
 6. Git Hacks
 
+
+## Sources
